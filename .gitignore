@@ -1,1 +1,9 @@
 *.log
+
+.claude
+.vscode
+.idea
+img
+pres
+CLAUDE.md
+loss-models
